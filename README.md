@@ -16,3 +16,4 @@ Destroy now we can teach dogs to do anything link drop tables lab The Gucci bund
 * [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
 
 # What Should I Watch Sinatra
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/what-should-i-watch-sinatra' title='Objectives'>Objectives</a> on Learn.co and start learning to code for free.</p>
